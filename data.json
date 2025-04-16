@@ -1,0 +1,72 @@
+[
+    {
+        "empname" : "Alishba",
+        "empemail" : "alishba@gamil.com",
+        "empnumber" : "+92355123456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+    {
+        "empname" : "Abiha",
+        "empemail" : "abiha@gamil.com",
+        "empnumber" : "+92112232456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+
+    {
+        "empname" : "sara",
+        "empemail" : "sara@gamil.com",
+        "empnumber" : "+92235123456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+
+    {
+        "empname" : "Ali",
+        "empemail" : "ali@gamil.com",
+        "empnumber" : "+923112123456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+
+    {
+        "empname" : "zara",
+        "empemail" : "zara@gamil.com",
+        "empnumber" : "+9234142126",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+
+    {
+        "empname" : "hiraa",
+        "empemail" : "hiraa@gamil.com",
+        "empnumber" : "+92355123456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+
+    {
+        "empname" : "saad",
+        "empemail" : "saad@gamil.com",
+        "empnumber" : "+92355123456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+
+    {
+        "empname" : "Areeba",
+        "empemail" : "areeba@gamil.com",
+        "empnumber" : "+92355123456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    },
+
+    {
+        "empname" : "Alia",
+        "empemail" : "alia@gamil.com",
+        "empnumber" : "+92355123456",
+        "empadd"  : "karachi,pakistan",
+        "empsalary" : "45000"
+    }
+]
